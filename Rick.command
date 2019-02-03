@@ -6,6 +6,7 @@
 resize -s 37 100
 clear
 open https://www.youtube.com/watch?v=dQw4w9WgXcQ
+sleep 0.300
 open "/Applications/Utilities/Terminal.app"
 for i in `seq 1 4`;
 do
